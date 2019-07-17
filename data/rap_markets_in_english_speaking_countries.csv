@@ -1,0 +1,207 @@
+,city,country,lat,lng,rank,country code,genre,top_genres,scale_rank,market_importance
+550,orlando florida,united states,25.4418,-80.4685,67.0,US,"dirty south rap, pop rap, rap, florida rap, gangster rap",29,0.9728539451791446,28.21276441019519
+580,phoenix arizona,united states,33.5722,-112.0891,68.0,US,"west coast rap, rap, chicano rap, gangster rap",28,0.9724497262362126,27.228592334613953
+306,houston texas,united states,29.7868,-95.3905,8.0,US,"houston rap, dirty south rap, gangster rap",27,0.9967521491923426,26.912308028193248
+737,tampa florida,united states,25.4418,-80.4685,93.0,US,"gangster rap, pop rap, florida rap, rap, dirty south rap",27,0.9623533734780697,25.98354108390788
+43,atlanta georgia,united states,33.1136,-94.1672,12.0,US,"dirty south rap, gangster rap, pop rap, rap",26,0.995128884622635,25.87335100018851
+317,indianapolis indiana,united states,40.6219,-79.1552,105.0,US,"dirty south rap, gangster rap, rap, pop rap",26,0.9575133764013082,24.895347786434012
+233,federal way washington,united states,38.9047,-77.0163,217.0,US,"gangster rap, cali rap, pop rap, rap",25,0.9125384031290714,22.813460078226786
+655,san francisco california,united states,37.7562,-122.443,24.0,US,"gangster rap, cali rap, west coast rap, pop rap",23,0.9902617400031672,22.776020020072846
+56,bakersfield california,united states,40.0692,-79.9152,418.0,US,"rap, gangster rap, pop rap, cali rap, chicano rap",27,0.8327517967593672,22.484298512502914
+633,sacramento california,united states,38.5667,-121.4683,87.0,US,"rap, gangster rap, west coast rap, cali rap",23,0.9647748955209042,22.189822596980797
+661,san leandro california,united states,37.7071,-122.1601,280.0,US,"west coast rap, gangster rap, pop rap, cali rap, rap",25,0.8874002799083825,22.185006997709564
+535,oakland california,united states,41.0313,-74.2408,100.0,US,"pop rap, gangster rap, west coast rap, cali rap",23,0.959529547522733,22.06917959302286
+579,philadelphia pennsylvania,united states,40.0076,-75.134,42.0,US,"pop rap, gangster rap, rap, philly rap",22,0.9829684967094481,21.62530692760786
+346,kent washington,united states,38.9047,-77.0163,276.0,US,"cali rap, rap, pop rap",24,0.8889928623485772,21.33582869636585
+658,san jose california,united states,37.3018,-121.8485,126.0,US,"cali rap, gangster rap, west coast rap",22,0.949053193060158,20.879170247323476
+733,tacoma washington,united states,38.9047,-77.0163,249.0,US,"pop rap, rap, cali rap",23,0.8997552065908664,20.694369751589928
+288,hayward california,united states,40.0692,-79.9152,373.0,US,"gangster rap, west coast rap, pop rap, rap, cali rap",24,0.8505081963300115,20.412196711920277
+650,san antonio texas,united states,29.4722,-98.5247,53.0,US,"pop rap, houston rap, dirty south rap, gangster rap",20,0.9785159462265403,19.570318924530806
+481,montebello california,united states,40.0692,-79.9152,691.0,US,"gangster rap, rap, pop rap, cali rap",26,0.7264115230287145,18.886699598746578
+548,orange california,united states,38.2486,-78.1127,486.0,US,"cali rap, pop rap, rap",22,0.8060395013204078,17.73286902904897
+572,pawtucket rhode island,united states,41.89,-71.3933,289.0,US,"gangster rap, pop rap, rap",20,0.8838187114492613,17.676374228985225
+381,las vegas nevada,united states,35.6011,-105.2206,78.0,US,"cali rap, chicano rap",18,0.9684090781842534,17.43136340731656
+158,columbia maryland,united states,38.776,-76.0702,247.0,US,"gangster rap, pop rap, rap",19,0.9005532746123677,17.110512217634987
+822,winter garden florida,united states,28.5421,-81.5966,507.0,US,"rap, dirty south rap, pop rap, gangster rap",21,0.7978196229789903,16.754212082558798
+29,antioch tennessee,united states,37.9789,-121.7957,346.0,US,"dirty south rap, gangster rap, pop rap, rap",19,0.8611918529554314,16.362645206153196
+811,walnut creek california,united states,37.9025,-122.0398,670.0,US,"cali rap, pop rap, rap",22,0.7345045036401707,16.159099080083756
+180,daly city california,united states,35.1578,-117.872,616.0,US,"cali rap, pop rap, rap",21,0.7553831342188028,15.863045818594857
+651,san bernardino california,united states,34.1412,-117.2936,817.0,US,"pop rap, rap, cali rap",22,0.6781726306955356,14.919797875301782
+252,fullerton california,united states,40.0692,-79.9152,648.0,US,"pop rap, rap, cali rap",20,0.7429988322015483,14.859976644030965
+720,stockton california,united states,37.9766,-121.3112,593.0,US,"pop rap, rap, cali rap",19,0.7643053325655587,14.521801318745615
+147,citrus heights california,united states,38.6948,-121.288,946.0,US,"cali rap, pop rap, rap, gangster rap",23,0.6293713102866569,14.475540136593109
+210,elk grove california,united states,38.416,-121.384,698.0,US,"cali rap, rap, pop rap",20,0.7237171905997131,14.474343811994261
+715,staten island new york,united states,40.6943,-73.9249,654.0,US,"chicago rap, nyc rap, rap, pop rap",19,0.7406805836906766,14.072931090122855
+559,pacoima california,united states,40.0692,-79.9152,158.0,US,"cali rap, chicano rap",15,0.9361856445599548,14.042784668399321
+136,charlotte north carolina,united states,35.289,-81.5416,49.0,US,"pop rap, rap",14,0.9801346656278614,13.72188531879006
+460,memphis tennessee,united states,35.1047,-89.9773,260.0,US,"pop rap, rap, gangster rap",15,0.8953679429068008,13.430519143602012
+818,whittier california,united states,40.0692,-79.9152,749.0,US,"cali rap, pop rap, rap",19,0.7041377488161812,13.378617227507442
+528,north hollywood california,united states,40.0692,-79.9152,278.0,US,"rap, chicano rap, cali rap",15,0.8881965116371624,13.322947674557437
+708,spartanburg south carolina,united states,35.1124,-81.2202,763.0,US,"rap, gangster rap, pop rap",19,0.698778730665418,13.276795882642942
+145,chula vista california,united states,32.6281,-117.0145,576.0,US,"rap, pop rap, cali rap",17,0.7709111874376594,13.10549018644021
+600,rancho cordova california,united states,38.5739,-121.2521,455.0,US,"pop rap, gangster rap, cali rap, rap",16,0.8181991578322063,13.091186525315301
+331,jersey city new jersey,united states,40.7161,-74.0682,328.0,US,"pop rap, rap",15,0.8683265996751347,13.024898995127021
+827,worcester massachusetts,united states,42.2705,-71.8079,427.0,US,"rap, pop rap",15,0.8292080341016437,12.438120511524655
+563,palmdale california,united states,40.0692,-79.9152,1059.0,US,"cali rap, rap, pop rap",21,0.5871337119455692,12.329807950856953
+445,mansfield texas,united states,32.569,-97.1211,466.0,US,"rap, gangster rap, dirty south rap, pop rap",15,0.8138809693538819,12.208214540308228
+601,rancho cucamonga california,united states,34.1247,-117.5664,324.0,US,"cali rap, rap, gangster rap",14,0.8699134295404878,12.178788013566828
+304,hopkinton massachusetts,united states,42.3494,-71.5468,609.0,US,"pop rap, rap",16,0.7580967365136921,12.129547784219074
+185,dearborn heights michigan,united states,42.3164,-83.2769,732.0,US,"pop rap, rap",17,0.7106542751026926,12.081122676745775
+99,brooklyn new york,united states,40.6943,-73.9249,31.0,US,"nyc rap, chicago rap",12,0.987424411192341,11.849092934308093
+222,everett massachusetts,united states,47.9524,-122.167,536.0,US,"rap, pop rap",15,0.7864915478504926,11.79737321775739
+374,lancaster california,united states,32.5922,-96.7737,1068.0,US,"rap, pop rap, chicano rap, cali rap",20,0.5837908689701177,11.675817379402353
+216,escondido california,united states,40.0692,-79.9152,1000.0,US,"cali rap, chicano rap, rap",19,0.6091259922127973,11.573393852043148
+253,fuquay-varina north carolina,united states,35.596,-78.7802,933.0,US,"rap, pop rap, gangster rap",18,0.6342615714837024,11.416708286706644
+309,huntington beach california,united states,33.696,-118.0025,470.0,US,"rap, cali rap",14,0.8123116641868898,11.372363298616458
+450,marietta georgia,united states,33.9532,-84.5421,472.0,US,"rap, pop rap",14,0.8115272009856463,11.361380813799048
+344,katy texas,united states,29.4128,-94.9658,499.0,US,"pop rap, rap",14,0.8009493489455309,11.213290885237432
+242,fort lauderdale florida,united states,26.1412,-80.1464,352.0,US,"rap, pop rap",13,0.8588157876052834,11.164605238868685
+474,modesto california,united states,40.0692,-79.9152,876.0,US,"rap, cali rap, pop rap",17,0.6557773386932895,11.14821475778592
+586,pompano beach florida,united states,26.2428,-80.1312,659.0,US,"rap, pop rap",15,0.7387496331227599,11.081244496841398
+515,newark new jersey,united states,39.3167,-74.6066,209.0,US,"pop rap, rap dominicano, rap",12,0.91573888754051,10.98886665048612
+826,woodbridge virginia,united states,47.5172,-92.5121,1011.0,US,"pop rap, rap, dmv rap",18,0.6050155409359491,10.890279736847084
+64,baton rouge louisiana,united states,30.4423,-91.1314,561.0,US,"rap, pop rap",14,0.7767477305279785,10.874468227391699
+250,fresno california,united states,40.0692,-79.9152,410.0,US,"cali rap, rap",13,0.8359039197535462,10.8667509567961
+763,tucson arizona,united states,32.1546,-110.8782,254.0,US,"rap, pop rap",12,0.8977605527710901,10.773126633253082
+202,east orange new jersey,united states,40.7651,-74.2117,726.0,US,"pop rap, rap",15,0.7129566101528514,10.694349152292771
+327,jacksonville florida,united states,30.3322,-81.6749,285.0,US,"rap, pop rap",12,0.8854102216026974,10.62492265923237
+728,sunnyvale california,united states,40.0692,-79.9152,513.0,US,"rap, cali rap, pop rap",13,0.7954736701819137,10.341157712364879
+187,decatur georgia,united states,33.2277,-97.5898,910.0,US,"pop rap, gangster rap, rap",16,0.6429289659967566,10.286863455948106
+820,wilmington delaware,united states,39.7415,-75.5413,805.0,US,"rap, chicago rap, pop rap",15,0.6827428640477203,10.241142960715806
+693,silver spring maryland,united states,38.7188,-90.4749,176.0,US,"pop rap, rap",11,0.9289605555448498,10.218566110993347
+414,long beach california,united states,40.5887,-73.666,393.0,US,"pop rap, cali rap",12,0.8426087568308815,10.111305081970578
+558,oxnard california,united states,40.0692,-79.9152,838.0,US,"pop rap, cali rap, rap",15,0.6701870741330891,10.052806111996336
+676,santa rosa california,united states,38.4465,-122.706,950.0,US,"rap, cali rap",16,0.627867885458395,10.04588616733432
+256,garland texas,united states,29.4128,-94.9658,958.0,US,"rap, pop rap, dirty south rap, gangster rap",16,0.624862836013667,9.997805376218672
+141,chicago illinois,united states,41.8373,-87.6861,4.0,US,chicago rap,10,0.9983758544774534,9.983758544774533
+513,new orleans louisiana,united states,30.0687,-89.9288,251.0,US,"rap, pop rap",11,0.8989572565307996,9.888529821838796
+821,winston-salem north carolina,united states,36.1029,-80.26100000000002,772.0,US,"rap, pop rap",14,0.6953372579039394,9.734721610655152
+462,mesa arizona,united states,33.4017,-111.7181,297.0,US,"gangster rap, rap, pop rap",11,0.8806371242191702,9.687008366410872
+652,san diego california,united states,32.8312,-117.1226,89.0,US,cali rap,10,0.9639676088226433,9.639676088226434
+549,orange new jersey,united states,39.3167,-74.6066,677.0,US,"rap, pop rap",13,0.7318051836485362,9.513467387430971
+616,richmond hill,canada,31.9203,-81.3124,697.0,CA,"pop rap, rap",13,0.7241019930377783,9.413325909491117
+487,moreno valley california,united states,33.9244,-117.2045,379.0,US,"rap, cali rap",11,0.8481370750568862,9.329507825625749
+209,elizabeth new jersey,united states,39.3167,-74.6066,387.0,US,"pop rap, rap",11,0.8449772981872817,9.294750280060098
+161,compton california,united states,40.0692,-79.9152,189.0,US,cali rap,10,0.9237482500322278,9.237482500322278
+232,fayetteville north carolina,united states,35.289,-81.5416,905.0,US,"rap, pop rap",14,0.6448157710597338,9.027420794836273
+711,spring texas,united states,30.7478,-98.2392,474.0,US,"pop rap, rap",11,0.8107428641476884,8.918171505624573
+803,visalia california,united states,40.0692,-79.9152,1238.0,US,"rap, cali rap",17,0.5212611669302236,8.861439837813801
+384,lawrenceville georgia,united states,38.7263,-87.6874,835.0,US,"pop rap, rap",13,0.6713269018315478,8.727249723810122
+167,corona california,united states,40.0692,-79.9152,323.0,US,cali rap,10,0.8703102124322433,8.703102124322433
+814,west jordan utah,united states,40.6024,-112.0008,545.0,US,"indie pop rap, rap, pop rap",11,0.7829814423093078,8.612795865402386
+735,tallahassee florida,united states,25.4418,-80.4685,716.0,US,"rap, pop rap",12,0.7167965890663465,8.601559068796158
+159,columbia south carolina,united states,35.1124,-81.2202,365.0,US,"pop rap, rap",10,0.8536714056180603,8.536714056180603
+669,santa ana california,united states,33.7366,-117.8819,129.0,US,"cali rap, chicano rap",9,0.9478456182698991,8.530610564429091
+293,henderson nevada,united states,32.1576,-94.796,751.0,US,"cali rap, rap",12,0.703371757271349,8.440461087256189
+539,oceanside california,united states,40.0692,-79.9152,786.0,US,"rap, cali rap",12,0.6899894972965749,8.279873967558899
+81,bloomington california,united states,40.4757,-88.9705,441.0,US,cali rap,10,0.8237005306334166,8.237005306334167
+265,greensboro north carolina,united states,35.289,-81.5416,658.0,US,"pop rap, rap",11,0.7391357560173034,8.130493316190337
+416,los angeles california,united states,34.1139,-118.4068,3.0,US,"gangster rap, cali rap",8,0.9987818496044755,7.990254796835804
+617,richmond hill new york,united states,45.1226,-92.5338,869.0,US,"pop rap, rap",12,0.6584278354253875,7.90113402510465
+745,the bronx new york,united states,40.6943,-73.9249,64.0,US,"rap dominicano, nyc rap",8,0.9740667699407655,7.792534159526124
+297,hialeah florida,united states,25.4418,-80.4685,348.0,US,"pop rap, rap",9,0.8603997096155015,7.743597386539514
+674,santa maria california,united states,34.9333,-120.4432,1424.0,US,"cali rap, chicano rap, rap",17,0.45425660061245204,7.722362210411685
+670,santa clara california,united states,37.3646,-121.9679,774.0,US,"cali rap, rap",11,0.6945728710554647,7.640301581610112
+473,mobile alabama,united states,30.6783,-88.1162,1187.0,US,"rap, pop rap",14,0.5398955284515911,7.558537398322275
+35,arlington texas,united states,48.1697,-122.1446,165.0,US,"pop rap, dirty south rap, gangster rap",8,0.9333747793469341,7.466998234775473
+65,beaverton oregon,united states,42.9252,-89.3887,650.0,US,"cali rap, rap",10,0.7422259485555156,7.422259485555156
+134,chandler arizona,united states,33.2827,-111.8516,463.0,US,"rap, pop rap",9,0.8150582793284373,7.335524513955936
+495,murrieta california,united states,40.0692,-79.9152,858.0,US,"rap, cali rap",11,0.6625964951139536,7.288561446253489
+484,montgomery alabama,united states,41.1709,-76.874,1248.0,US,"pop rap, rap",14,0.5176202320028668,7.246683248040135
+66,belleville michigan,united states,38.5165,-89.9899,492.0,US,"pop rap, rap",9,0.8036895324381532,7.233205791943379
+178,dallas texas,united states,32.7937,-96.7662,6.0,US,"gangster rap, dirty south rap",7,0.997563946775373,6.9829476274276105
+197,duncanville texas,united states,29.4128,-94.9658,1091.0,US,"rap, pop rap",12,0.5752625570122022,6.903150684146427
+468,miami florida,united states,25.784,-80.2102,54.0,US,"gangster rap, dirty south rap",7,0.9781113360717011,6.846779352501907
+36,arlington virginia,united states,38.7719,-77.445,63.0,US,"pop rap, rap",7,0.9744711008130895,6.821297705691626
+144,chino california,united states,33.9836,-117.6653,378.0,US,cali rap,8,0.8485321853035749,6.788257482428599
+646,salt lake city utah,united states,40.7774,-111.9301,90.0,US,pop rap,7,0.9635640077182078,6.7449480540274545
+239,fontana california,united states,36.0375,14.2361,136.0,US,cali rap,7,0.9450289410843095,6.615202587590166
+620,riverside california,united states,33.9381,-117.3948,160.0,US,cali rap,7,0.9353823964887376,6.547676775421163
+546,ontario california,united states,34.0393,-117.6064,172.0,US,cali rap,7,0.9305653242514217,6.513957269759952
+575,perris california,united states,40.0692,-79.9152,1394.0,US,"rap, cali rap",14,0.46495883174785335,6.509423644469947
+220,etobicoke,canada,48.4462,-89.275,893.0,CA,"rap, pop rap",10,0.6493478559213239,6.493478559213239
+662,san mateo california,united states,37.5522,-122.3122,939.0,US,"cali rap, rap",10,0.632003744014831,6.32003744014831
+611,reno nevada,united states,42.0185,-93.4637,528.0,US,cali rap,8,0.7896138354344141,6.316910683475313
+349,kissimmee florida,united states,25.4418,-80.4685,785.0,US,"pop rap, rap",9,0.6903712518220505,6.213341266398454
+170,corpus christi texas,united states,27.7173,-97.3822,792.0,US,"pop rap, rap",9,0.6876997097850076,6.189297388065069
+812,warren michigan,united states,41.8433,-79.1445,314.0,US,"rap, pop rap",7,0.8738826141919556,6.1171782993436885
+536,oakville,canada,48.4462,-89.275,657.0,CA,"pop rap, rap",8,0.7395219125330672,5.916175300264538
+335,kansas city missouri,united states,39.1239,-94.5541,103.0,US,"pop rap, country rap",6,0.958319760028889,5.749918560173334
+249,fremont california,united states,41.4417,-96.4886,479.0,US,cali rap,7,0.8087825754272054,5.661478027990438
+624,roseville california,united states,38.7691,-121.3178,527.0,US,"cali rap, rap",7,0.7900042662707173,5.530029863895021
+527,north hills california,united states,40.7765,-73.6778,531.0,US,cali rap,7,0.788442736003676,5.519099152025732
+23,anaheim california,united states,40.0692,-79.9152,206.0,US,cali rap,6,0.9169395503408653,5.501637302045191
+227,falls church virginia,united states,38.8847,-77.1751,583.0,US,"pop rap, rap",7,0.7681899822788827,5.377329875952179
+9,akron ohio,united states,41.0802,-81.5219,591.0,US,"pop rap, rap",7,0.7650819998320296,5.355573998824207
+825,woodbridge,canada,48.4462,-89.275,1250.0,CA,"rap, pop rap",10,0.5168925559870234,5.168925559870234
+223,fairfax virginia,united states,47.5172,-92.5121,664.0,US,"rap, pop rap",7,0.736819523378667,5.1577366636506685
+813,washington district of columbia,united states,38.9047,-77.0163,69.0,US,dmv rap,5,0.9720455352950089,4.860227676475045
+140,cherry hill new jersey,united states,41.2012,-77.2666,845.0,US,"pop rap, rap",7,0.6675287329313674,4.672701130519572
+685,schenectady new york,united states,40.6943,-73.9249,853.0,US,"rap, pop rap",7,0.6644927880511058,4.65144951635774
+328,jamaica new york,united states,40.6943,-73.9249,1412.0,US,"rap, pop rap",10,0.45853250619482805,4.58532506194828
+299,hoboken new jersey,united states,39.3167,-74.6066,879.0,US,"pop rap, rap",7,0.6546419574404898,4.582493702083429
+168,corona new york,united states,40.6943,-73.9249,1102.0,US,"rap, pop rap",8,0.5711912171197984,4.569529736958387
+17,allen park michigan,united states,42.2595,-83.2107,685.0,US,"pop rap, rap",6,0.7287222774779191,4.372333664867514
+817,whitmore lake michigan,united states,41.7098,-86.8705,764.0,US,"pop rap, rap",6,0.698396205018596,4.190377230111576
+815,west palm beach florida,united states,26.7467,-80.1314,802.0,US,rap,6,0.6838862208580669,4.103317325148401
+100,brownsville texas,united states,25.998,-97.4565,1066.0,US,rap,7,0.5845334479545581,4.091734135681906
+686,seattle washington,united states,38.9047,-77.0163,29.0,US,cali rap,4,0.9882349380909728,3.9529397523638914
+93,brandon mississippi,united states,32.2778,-89.9896,1493.0,US,"pop rap, rap",9,0.4298014386879181,3.868212948191263
+447,maple,canada,41.4094,-81.5625,1421.0,CA,"rap, pop rap",8,0.4553249507347179,3.6425996058777432
+314,ilford,united kingdom,51.5597,0.0708,703.0,GB,"nyc rap, swedish gangsta rap",5,0.721793690107348,3.60896845053674
+593,puyallup washington,united states,38.9047,-77.0163,770.0,US,"rap, cali rap",5,0.6961017848269867,3.4805089241349334
+523,norcross georgia,united states,33.9378,-84.2065,331.0,US,"pop rap, rap",4,0.8671367943200997,3.468547177280399
+645,salinas california,united states,40.0692,-79.9152,1116.0,US,"cali rap, rap",6,0.566016501685228,3.396099010111368
+302,hollywood florida,united states,26.0293,-80.1678,462.0,US,rap,4,0.8154507789991385,3.261803115996554
+612,renton washington,united states,38.9047,-77.0163,577.0,US,"cali rap, pop rap",4,0.7705223456828233,3.082089382731293
+160,columbus georgia,united states,43.3354,-89.03,608.0,US,rap,4,0.7584845263076975,3.03393810523079
+747,thornhill,canada,48.4462,-89.275,1045.0,CA,"rap, pop rap",5,0.5923399964906667,2.9616999824533337
+221,evansville wisconsin,united states,42.7781,-89.2967,1391.0,US,"rap rock, country rap",6,0.46603133227183635,2.796187993631018
+183,dayton ohio,united states,30.0358,-94.9024,231.0,US,country rap,3,0.9069420570512131,2.7208261711536395
+153,colfax louisiana,united states,30.2233,-92.6582,268.0,US,"dirty south rap, gangster rap",3,0.8921794536006927,2.6765383608020783
+430,madison mississippi,united states,43.0808,-89.3922,1629.0,US,"rap, pop rap",7,0.3822814693613314,2.6759702855293197
+78,birmingham alabama,united states,33.5276,-86.7988,283.0,US,rap,3,0.8862061555633466,2.6586184666900397
+13,alexandria virginia,united states,38.7719,-77.445,304.0,US,pop rap,3,0.8778548058078183,2.6335644174234547
+8,ajax,canada,48.4462,-89.275,1227.0,CA,rap,5,0.5252710958742369,2.6263554793711847
+469,milton,canada,47.2522,-122.3154,1269.0,CA,rap,5,0.5099881700393469,2.5499408501967347
+286,hattiesburg mississippi,united states,31.3072,-89.3168,1316.0,US,"pop rap, rap",5,0.49297598341154086,2.4648799170577043
+542,ogden utah,united states,41.228,-111.9677,611.0,US,pop rap,3,0.7573212561117099,2.2719637683351297
+326,jackson michigan,united states,43.3244,-88.1668,641.0,US,"rap, rap rock",3,0.7457049797479066,2.2371149392437197
+514,new york new york,united states,40.6943,-73.9249,7.0,US,rap,2,0.9971580342152419,1.9943160684304837
+544,omaha nebraska,united states,42.826,-103.0024,116.0,US,pop rap,2,0.9530802910468648,1.9061605820937295
+618,ridgeland mississippi,united states,32.4236,-90.1481,1639.0,US,"rap, pop rap",5,0.37882452283762946,1.8941226141881473
+634,saint paul minnesota,united states,44.9477,-93.104,155.0,US,pop rap,2,0.9373907320481771,1.8747814640963543
+12,albuquerque new mexico,united states,31.8195,-106.5948,218.0,US,rap,2,0.9121384739524897,1.8242769479049794
+184,de witt iowa,united states,42.7809,-96.1743,1432.0,US,country rap,4,0.45140971525481327,1.805638861019253
+466,metairie louisiana,united states,30.2233,-92.6582,1038.0,US,"pop rap, rap",3,0.5949460057734547,1.784838017320364
+230,farnborough,united kingdom,51.0167,-1.3167,1734.0,GB,swedish gangsta rap,5,0.3462500258320501,1.7312501291602507
+125,catford,united kingdom,51.45,-0.0167,1748.0,GB,rap,5,0.3414913770563187,1.7074568852815935
+90,boucherville,canada,48.4462,-89.275,1985.0,CA,rap conscient,6,0.26269820110993625,1.5761892066596175
+471,mitcham,united kingdom,51.0167,-1.3167,1861.0,GB,swedish gangsta rap,5,0.3034951841768898,1.517475920884449
+131,chambly,canada,48.4462,-89.275,1871.0,CA,rap conscient,5,0.3001692197827811,1.5008460989139056
+319,inkster michigan,united states,41.7098,-86.8705,782.0,US,pop rap,2,0.6915167264648504,1.3830334529297008
+163,concord north carolina,united states,35.289,-81.5416,976.0,US,rap,2,0.6181102860309305,1.236220572061861
+456,mchenry illinois,united states,42.3388,-88.2931,979.0,US,indie pop rap,2,0.6169860517854386,1.2339721035708773
+831,yakima washington,united states,38.9047,-77.0163,990.0,US,cali rap,2,0.6128667828517268,1.2257335657034536
+73,bexleyheath,united kingdom,51.45,0.15,1938.0,GB,swedish gangsta rap,4,0.27804568603171625,1.112182744126865
+273,hacienda heights california,united states,40.0692,-79.9152,1182.0,US,cali rap,2,0.5417282708684605,1.083456541736921
+199,dunstable,united kingdom,51.0167,-1.3167,2155.0,GB,swedish gangsta rap,5,0.20846780907125373,1.0423390453562686
+150,cleveland ohio,united states,30.3368,-95.0924,43.0,US,country rap,1,0.9825635802318284,0.9825635802318284
+470,minneapolis minnesota,united states,44.9635,-93.2678,47.0,US,country rap,1,0.9809441924902276,0.9809441924902276
+203,edgware,united kingdom,51.0167,-1.3167,2054.0,GB,swedish gangsta rap,4,0.24043670458390812,0.9617468183356325
+243,fort worth texas,united states,32.7814,-97.3473,240.0,US,pop rap,1,0.9033474406284359,0.9033474406284359
+463,mesquite texas,united states,32.7622,-96.5889,245.0,US,dirty south rap,1,0.9013514605256019,0.9013514605256019
+208,el paso texas,united states,31.8479,-106.4309,256.0,US,rap,1,0.8969628979201641,0.8969628979201641
+412,lodi california,united states,40.0692,-79.9152,288.0,US,cali rap,1,0.8842165442442905,0.8842165442442905
+322,irving texas,united states,29.4128,-94.9658,293.0,US,pop rap,1,0.882227678796779,0.882227678796779
+97,bridgeview illinois,united states,41.7402,-87.8067,375.0,US,chicago rap,1,0.8497176999988707,0.8497176999988707
+186,dearborn michigan,united states,42.3127,-83.2129,570.0,US,rap,1,0.7732449240909963,0.7732449240909963
+700,slough,united kingdom,51.5,-0.5833,705.0,GB,swedish gangsta rap,1,0.7210245289288816,0.7210245289288816
+378,lansing michigan,united states,41.5646,-87.5459,781.0,US,rap rock,1,0.6918986216580555,0.6918986216580555
+229,farmington michigan,united states,42.2774,-83.3877,906.0,US,rap rock,1,0.6444383363401984,0.6444383363401984
+532,nuneaton,united kingdom,51.0167,-1.3167,1822.0,GB,swedish gangsta rap,2,0.3165241925461314,0.6330483850922628
+425,luton,united kingdom,51.8804,-0.42,996.0,GB,swedish gangsta rap,1,0.6106218503496003,0.6106218503496003
+488,morton mississippi,united states,40.6137,-89.4668,1019.0,US,rap,1,0.6020290407403269,0.6020290407403269
+738,tamworth,united kingdom,-31.1026,150.9171,1869.0,GB,swedish gangsta rap,2,0.30083392363739103,0.6016678472747821
+613,repentigny,canada,48.4462,-89.275,1735.0,CA,rap conscient,1,0.345909758842634,0.345909758842634
+721,stourbridge,united kingdom,51.0167,-1.3167,1805.0,GB,swedish gangsta rap,1,0.3222318214181459,0.3222318214181459
