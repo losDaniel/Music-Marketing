@@ -10,7 +10,7 @@ In this repo we scrape Everynoise.com to put together a map of music genre marke
 
 We create our map using the *Mapbox* functionality in `plotly`. In order to do this we needed additional geographic information including latitude and longitude information for cities which came from [Simplemaps.com](https://simplemaps.com/data/world-cities) and the latitude and longitude of country centroids which came from [Periscopedata.com](https://community.periscopedata.com/t/63fy7m/country-centroids).
 
-!(world_map.gif)
+![ScraperRunning](https://github.com/dankUndertone/Music-Marketing/blob/master/world_map.gif)
 
 ## Notebooks
 
