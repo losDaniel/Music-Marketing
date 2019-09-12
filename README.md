@@ -2,6 +2,8 @@
 
 In this repo we scrape Everynoise.com to put together a map of music genre markets based on spotify listener data. Using this information along with some short instagram data collectors we can build music marketing campaigns that target cities where the specific genres we're interested in are most popular. 
 
+For a walkthrough of how I developed this project please see my Medium article ["Mapping Music With Every Noise and Plotly"](https://medium.com/better-programming/mapping-music-with-everynoise-9ccb03db4f08)
+
 ## Everynoise 
 
 *Every Noise at Once* is a great website that hosts information on all the genres and sub-genres listened to around the world. Fortunately they also display information in lists, showing 1) the most popular genres in almost 3,000 cities and 2) ordering the cities from most to fewest spotify listeners. 
