@@ -102,7 +102,7 @@ def cities_by_genres(everygenre, rank_exponent=1.2, genre=None, rank=None, genre
         assert type(genre)==str
         assert type(rank)==int
         graph_data = find_genre(everygenre,rank, genre)
-        
+    # rank exponent is not rank 
     assert type(rank_exponent)==float
     rank_exp = rank_exponent
 

@@ -1,19 +1,22 @@
-import re, os, string, time
-import pandas as pd
-import urllib.request as urllib
-from urllib.parse import quote
+import pip._internal
+
 try:
     from bs4 import BeautifulSoup
 except:
-    import pip
-    pip.main(['install', 'bs4'])    
+    pip._internal.main(['install', 'bs4'])
     from bs4 import BeautifulSoup
+
 try: 
     import fuzzymatcher
 except: 
     import pip 
-    pip.main(['install','fuzzymatcher'])
+    pip._internal.main(['install', 'fuzzymatcher'])
     import fuzzymatcher
+
+import re, os, string, time
+import pandas as pd
+import urllib.request as urllib
+from urllib.parse import quote
 from IPython.display import clear_output
 
 
@@ -36,18 +39,21 @@ def fresh_soup(url):
         source = urllib.urlopen(req,timeout=10).read()                        # retrieve the page source
         
     except:                                                                   # if the url is reject due to non formatted characters 
-        non_conformists = [s for s in url if s not in string.printable]       # we get a list of the troublemaker characters 
-        for s in non_conformists:
-            url = url.replace(s,quote(s))                                     # and use the quote function from urllib.parse to translate them 
+        url = clean_url(url)
         
         req = urllib.Request(url,headers=hdr)                                 # the url should be readable now 
         source = urllib.urlopen(req,timeout=10).read()                        
-
             
     soup = BeautifulSoup(source,"lxml")                                       # process it using beautiful soup 
     
     return soup
 
+
+def clean_url(url):
+    non_conformists = [s for s in url if s not in string.printable]       # we get a list of the troublemaker characters 
+    for s in non_conformists:
+        url = url.replace(s,quote(s))       # and use the quote function from urllib.parse to translate them 
+    return url
 
 
 def get_cities():
@@ -162,7 +168,7 @@ def meatloaf(left, right, left_on, right_on, leftovers='left_only'):
 
 
 def fuzzy_city_merge(enpop, worldcities):
-    '''Meerge the every noise data with the worldcities data exact and then fuzzy matching, returns merged and leftover cities'''
+    '''Merge the every noise data with the worldcities data exact and then fuzzy matching, returns merged and leftover cities'''
     
     # create a dataset with precise data for specific cities 
     enpop_cities = pd.DataFrame()               

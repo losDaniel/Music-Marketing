@@ -5,17 +5,21 @@ import pandas as pd
 from datetime import datetime
 from multiprocessing.dummy import Pool as ThreadPool     
 
+
+import pip._internal
+
 try:
     from bs4 import BeautifulSoup
 except:
     import pip
-    pip.main(['install', 'bs4'])    
+    pip._internal.main(['install', 'bs4'])
     from bs4 import BeautifulSoup
+
 try:
     from selenium import webdriver
 except:
     import pip
-    pip.main(['install', 'selenium'])  
+    pip._internal.main(['install', 'selenium'])
     from selenium import webdriver    
 
 

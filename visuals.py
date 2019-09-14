@@ -1,7 +1,16 @@
+import pip._internal
+
+try:
+    import plotly 
+except:
+    pip._internal.main(['install', 'plotly'])
+    import plotly 
+
 import os
 import pandas as pd
 import plotly.plotly as py
 import plotly.graph_objs as go
+from IPython.display import display_html
 from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 
 
@@ -20,7 +29,22 @@ def set_credentials(local_file="plotly config.txt"):
     if creds['user'] is not None and creds['api_key'] is not None: 
         plotly.tools.set_credentials_file(username='dankUndertone', api_key='cEsZpcyWsO8xC0bSFxlm')
         auth = True
-
+    assert auth==True
+        
+def plot_map_data(ds, data_name, opacity_value):
+    element = go.Scattermapbox(                    # plot the points in the dataset 
+        lat=ds['lat'],                             # latitude  
+        lon=ds['lng'],                             # longitud 
+        mode='markers',                            # point types 
+        opacity=opacity_value, 
+        marker=go.scattermapbox.Marker(
+            size=ds['market_importance'],          # marker size based on market importance
+        ),
+        name = data_name,
+        # display the city name and top genres when hovering over a point
+        text=ds['city'].str.title()+'<br><br>'+ds['genre'].str.title().str.replace(',','<br>'), 
+    )
+    return element
 
 def draw_genre_markets(graph_data, mat=None, opacity_reduction=0.5, names = []):
     '''
@@ -71,7 +95,7 @@ def draw_genre_markets(graph_data, mat=None, opacity_reduction=0.5, names = []):
                 'mapbox.zoom':1.2,                  # with a really high zoom
                 'annotations[0].text':'World View'  # titled "World View" 
             } ],
-            label='World',                          # give it the layout world in the meny 
+            label='World',                          # give it the layout world in the menu 
             method='relayout'
         )
     ])
@@ -97,25 +121,14 @@ def draw_genre_markets(graph_data, mat=None, opacity_reduction=0.5, names = []):
             )
         )
 
-    opactiy_value = 1 # reduce the opacity with each additional set of points so we can see the ones below 
+    opacity_value = 1 # reduce the opacity with each additional set of points so we can see the ones below 
     data = []
     n = 0
     for ds in graph_data:                                  # for each dataset in the graph data
         data.append(
-            go.Scattermapbox(                              # plot the points in the dataset 
-                lat=ds['lat'],                             # latitude  
-                lon=ds['lng'],                             # longitud 
-                mode='markers',                            # point types 
-                opacity=opactiy_value, 
-                marker=go.scattermapbox.Marker(
-                    size=ds['market_importance'],          # marker size based on market importance
-                ),
-                name = names[n],
-                # display the city name and top genres when hovering over a point
-                text=ds['city'].str.title()+'<br><br>'+ds['genre'].str.title().str.replace(',','<br>'), 
-            )
+            plot_map_data(ds, names[n], opacity_value)
         )
-        opactiy_value = opactiy_value*opacity_reduction
+        opacity_value = opacity_value*opacity_reduction
         n+=1
 
     layout = dict(
@@ -142,7 +155,7 @@ def draw_genre_markets(graph_data, mat=None, opacity_reduction=0.5, names = []):
             pad = {'r': 0, 't': 10},
             x = 0.03,                                   # space from x anchor 
             xanchor = 'left',                           # anchor it to the left
-            y = 1.0,                                    # space from y anchor 
+            y = 1,                                      # space from y anchor 
             yanchor = 'top',                            # anchor to the top 
             bgcolor = '#AAAAAA',                        # menu background color 
             active = 99,
@@ -237,3 +250,15 @@ def draw_data(data,title='Title',xlabel='X',ylabel='Y'):
     )
     fig = go.Figure(data=data, layout=layout)
     return fig  
+
+
+def display_side_by_side(*args):
+    '''Display the given tables side by side'''
+    html_str=''
+    for df in args:
+        if type(df) == list:
+            for t in df: 
+                html_str+=t.to_html()
+        else:
+            html_str+=df.to_html()
+    display_html(html_str.replace('table','table style="display:inline"'),raw=True)
